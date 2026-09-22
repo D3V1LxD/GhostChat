@@ -1,46 +1,4 @@
-<!-- donation:eth:start -->
-<div align="center">
 
-## Support Development
-
-If this project helps your work, support ongoing maintenance and new features.
-
-**ETH Donation Wallet**  
-`0x11282eE5726B3370c8B480e321b3B2aA13686582`
-
-<a href="https://etherscan.io/address/0x11282eE5726B3370c8B480e321b3B2aA13686582">
-  <img src="publiceth.svg" alt="Ethereum donation QR code" width="220" />
-</a>
-
-_Scan the QR code or copy the wallet address above._
-
-</div>
-<!-- donation:eth:end -->
-
-
-<div align="center">
-
-# 👻 GhostChat
-
-### Your messages vanish like ghosts
-
-**True peer-to-peer chat where messages travel directly between users.**  
-No servers storing or reading your conversations. Everything exists only in memory and disappears when you close the tab.
-
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org)
-[![WebRTC](https://img.shields.io/badge/WebRTC-P2P-orange)](https://webrtc.org)
-[![simple-peer](https://img.shields.io/badge/simple--peer-9-green)](https://github.com/feross/simple-peer)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-orange)](https://workers.cloudflare.com)
-
-[Live Demo](https://ghost-chat.pages.dev) • [Contributing](CONTRIBUTING.md) • [Changelog](CHANGELOG.md)
-
-**🎥 [Watch Demo Video](https://sendspark.com/share/jq2rruwx9q3s97gbswef1sabm09ofzye)**
-
-</div>
-
----
 
 ## 📑 Table of Contents
 
